@@ -6,5 +6,5 @@ We all face a challege that once our apps grows we need to execute more requests
 
 This framework should benefit web developers who want to build microservices, to stitch them easily. 
 
-The crust cli tool should help to make tiny services faster and should allow independent services to connect each other through grpc ( may mutually exclusive) - inspiration https://dapr.io/.
+The crust cli tool should help to make tiny services faster and should allow independent services to connect each other through grpc - inspiration https://dapr.io/.
 
