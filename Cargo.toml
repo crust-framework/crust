@@ -2,6 +2,12 @@
 name = "crust"
 version = "0.1.0"
 edition = "2018"
+description = "Framework for Building distributed web services using Rust."
+license = "MIT"
+keywords = ["web framework", "distributed sytems"]
+categories = ["web-programming","web-programming::http-server","web-programming::http-server"]
+exclude = ["/node_modules", "/target", ".*"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
